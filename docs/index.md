@@ -6,7 +6,7 @@ layout: tabbed-assignment
 
 <img class="overview-image" src="https://code.org/curriculum/docs/csp/U3/L9/image00.png">
 
-In this lesson we'll be learning how to write code to handle repeated tasks for us - we'll be learning to write **loops**.
+In this lesson we'll be learning how to write code to handle repeated tasks for us - we'll be learning to write **for loops** in JavaScript.
 
 We'll also take a look at the practice Create Performance Task.
 
