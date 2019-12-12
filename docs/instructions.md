@@ -10,8 +10,6 @@ You can find the activities, vocabulary, and self-check questions here:
 
 * [Lesson 9: Looping & Random Numbers](https://studio.code.org/s/csp3-2019/stage/9/puzzle/1/)
 
-## Notes
-
 <!-- Don't edit links here, change them in _data/assignment.yml instead, -->
 
 [slides]: <{{site.data.assignment.slides}}>
