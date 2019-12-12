@@ -4,7 +4,7 @@ layout: tabbed-assignment
 
 # Overview
 
-<!-- img class="overview-image" src="" -->
+<img class="overview-image" src="https://code.org/curriculum/docs/csp/U3/L9/image00.png">
 
 In this lesson we'll be learning how to write code to handle repeated tasks for us - we'll be learning to write **loops**.
 
